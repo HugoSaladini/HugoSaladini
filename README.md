@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Hugo
 
-<!--
-**HugoSaladini/HugoSaladini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Programming Student, focus on machine learning, future genius of technology on the rise 💾
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 - SP
+ 
+ :world_map: - Brazil
+ 
+📚  - Bootcamp Generation Dev Full Stack
+
+[![Twitter Badge](https://img.shields.io/badge/-@hugo_saladini-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://https://twitter.com/hugo_saladini)](https://https://twitter.com/hugo_saladini) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Saladini-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/hugosaladini/)](https://www.https://www.linkedin.com/in/hugosaladini/) 
