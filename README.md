@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Saladini-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/hugosaladini/)](https://www.https://www.linkedin.com/in/hugosaladini/) 
 
 
-Hi! I'm a Programming Student, focus on machine learning, future genius of technology on the rise 💾
+Hi! I'm a Programming Student, focus on machine learning, future genius of technology on the rise 🚀
 
 
 📍 - SP
