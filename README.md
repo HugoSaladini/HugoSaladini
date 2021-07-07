@@ -13,3 +13,5 @@ Hi! I'm a Programming Student, focus on machine learning, future genius of techn
  
 📚  - Bootcamp Generation Dev Full Stack
 
+![Snake animation](https://github.com/HugoSaladini/HugoSaladini/blob/output/github-contribution-grid-snake.svg)
+
