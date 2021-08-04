@@ -25,6 +25,7 @@ I always try to improve myself and know a little about everything.
  ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
+
  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
  ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
