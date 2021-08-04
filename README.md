@@ -26,8 +26,6 @@ I always try to improve myself and know a little about everything.
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
  
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
  ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
@@ -35,7 +33,7 @@ I always try to improve myself and know a little about everything.
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
  ![heroku](https://img.shields.io/badge/-heroku-black?style=flat&logo=heroku)
  
- 
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
  ![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle "Eclipse IDE")
  ![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")
