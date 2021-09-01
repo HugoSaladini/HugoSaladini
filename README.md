@@ -2,15 +2,6 @@
 
 ### 📫_Contact 
 
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
-<p align="center">
- <a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://gmail.com/smrtdvlpr"><img src="https://img.shields.io/badge/gmail-#4285F4.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</p>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Hugo_Saladini-6633cc?style=flat&logo=Linkedin&logoColor=witw&link=https://www.linkedin.com/in/hugosaladini/)](https://www.linkedin.com/in/hugosaladini/)
 [![Twitter Badge](https://img.shields.io/badge/-@Hugo_Saladini-6633cc?style=flat&logo=twitter&logoColor=witw&link=https://twitter.com/hugo_saladini)](https://twitter.com/hugo_saladini)
 [![Instagram Badge](https://img.shields.io/badge/-@Hugo__Saladini-6633cc?style=flat&logo=instagram&logoColor=witw&link=https://www.instagram.com/hugo_saladini/?hl=pt-br)](https://www.instagram.com/hugo_saladini/?hl=pt-br)
