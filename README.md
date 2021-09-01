@@ -2,10 +2,23 @@
 
 ### 📫_Contact 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hugo_Saladini-6633cc?style=flat&logo=Linkedin&logoColor=witw&link=https://www.linkedin.com/in/hugosaladini/)](https://www.linkedin.com/in/hugosaladini/) 
-[![Twitter Badge](https://img.shields.io/badge/-@Hugo_Saladini-6633cc?style=flat&logo=twitter&logoColor=witw&link=https://twitter.com/hugo_saladini)](https://twitter.com/hugo_saladini) 
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+ <a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://gmail.com/smrtdvlpr"><img src="https://img.shields.io/badge/gmail-#4285F4.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Hugo_Saladini-6633cc?style=flat&logo=Linkedin&logoColor=witw&link=https://www.linkedin.com/in/hugosaladini/)](https://www.linkedin.com/in/hugosaladini/)
+[![Twitter Badge](https://img.shields.io/badge/-@Hugo_Saladini-6633cc?style=flat&logo=twitter&logoColor=witw&link=https://twitter.com/hugo_saladini)](https://twitter.com/hugo_saladini)
 [![Instagram Badge](https://img.shields.io/badge/-@Hugo__Saladini-6633cc?style=flat&logo=instagram&logoColor=witw&link=https://www.instagram.com/hugo_saladini/?hl=pt-br)](https://www.instagram.com/hugo_saladini/?hl=pt-br)
-[![Gmail Badge](https://img.shields.io/badge/-hg.saladini@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=witw&link=hg.saladini@gmail.com-)](hg.saladini@gmail.com-) 
+[![Gmail Badge](https://img.shields.io/badge/-hg.saladini@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=witw&link=hg.saladini@gmail.com-)](hg.saladini@gmail.com-)
+
+
+
+
 
 I am a very communicative person, my experiences of
 work shaped me into a person with a critical sense, and
@@ -16,6 +29,12 @@ I always try to improve myself and know a little about everything.
 
 
 📍 São Paulo - Brasil
+
+ ![HugoSaladini | Github Stats](https://github-readme-stats.vercel.app/api?username=HugoSaladini&theme=dracula&show_icons=true)
+<a href="https://github.com/HugoSaladini">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSaladini&theme=dracula&layout=compact" />
+</a>
+ 
 
 ### 💻:keyboard: Technologies and Tools 
  
@@ -33,13 +52,18 @@ I always try to improve myself and know a little about everything.
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
  ![heroku](https://img.shields.io/badge/-heroku-black?style=flat&logo=heroku)
  
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+   
+
+ 
+ <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
  ![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle "Eclipse IDE")
  ![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")
  ![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")
  ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/Quananhle "Docker")
  ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")
+ 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
  ![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")
  ![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")
@@ -50,20 +74,7 @@ I always try to improve myself and know a little about everything.
  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)
  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/Quananhle)
  
-
-   
-
- <a href="https://github.com/HugoSaladini">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSaladini&theme=dracula&layout=compact" />
-</a>
-
- ![HugoSaladini | Github Stats](https://github-readme-stats.vercel.app/api?username=HugoSaladini&theme=dracula&show_icons=true)
- 
-
-<!--  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
-
-
-
+![VisitorCount](https://profile-counter.glitch.me/HugoSaladini/count.svg)
 
 <details>
   <summary> <b> 🔨Em construção! 🛠 </b> <i>(click to expand!)</i> </summary>
@@ -73,8 +84,6 @@ I always try to improve myself and know a little about everything.
  
  
 </details>
-
-![VisitorCount](https://profile-counter.glitch.me/HugoSaladini/count.svg)
 
 
  
