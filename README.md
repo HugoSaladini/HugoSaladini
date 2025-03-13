@@ -1,23 +1,63 @@
+<h1 align="center">Olá, eu sou Hugo Saladini! 👋</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HugoSaladini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HugoSaladini&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSaladini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HugoSaladini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HugoSaladini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Desenvolvedor Full Stack | Estudante de IA  
+📍 São Paulo, Brasil  
+🎯 Buscando aprimorar habilidades e contribuir com projetos open-source  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%23008080.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoSaladini&show_icons=true&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSaladini&layout=compact&langs_count=7&theme=nord"/>
+</div>
+
+---
+
+## 🌟 Projetos em Destaque:
+<div align="center">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoSaladini&repo=santander-dev-week&theme=nord)](https://github.com/HugoSaladini/santander-dev-week)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niashi&repo=projeto-lunacao-front&theme=nord)](https://github.com/HugoSaladini/santander-dev-week)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niashi&repo=projeto-lunacao-back&theme=nord)](https://github.com/HugoSaladini/santander-dev-week)
+
+</div>
+
+---
+
+
+## 📬 Entre em Contato:
+<div align= "center">
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugosaladini/)
+ [![E-mail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+</div>
+
+
+---
+<div align= "center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800">
+</div>
+
+
