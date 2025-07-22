@@ -6,8 +6,7 @@
 
 ---
 
-💻 Cadet at 42 São Paulo 🛸
-
+💻 Cadet at 42 São Paulo 🛸   
 📍 São Paulo, Brasil  
 🎯 Buscando aprimorar habilidades e contribuir com projetos open-source  
 
